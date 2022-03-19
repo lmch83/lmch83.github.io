@@ -13,7 +13,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Junior Software Developer", "Creative graduate", "Problem solver"],
+		strings: ["Software Developer", "Full Stack", "Java, Grails, HTML, JavaScript, SQL"],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
@@ -21,7 +21,7 @@ $(document).ready(function() {
 	});
 
   var inf = new Typed(".infoMessage", {
-    strings: ["Work in prgress", "More about me soon"],
+    strings: ["Work in progress"],
     typeSpeed: 70,
     loop: true,
     startDelay: 1000,
